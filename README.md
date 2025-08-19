@@ -34,3 +34,6 @@ Preparar los artefactos iniciales para la gestión del proyecto:
 
 ## Wiki
 - Planning 0, Dailies, Review 0 y Retro 0.
+
+**Evidencia Sprint 0:** README actualizado en rama feature/2-readme-setup
+
